@@ -1,4 +1,3 @@
-
 class Teacher extends Person{
 double salary;
 int syear;
